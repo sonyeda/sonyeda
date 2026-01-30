@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @sonyeda
-- 👀 I’m interested in web3 development , AI/ML , cyberforencies, UI/UX , osint tools etc..
-- 🌱 I’m currently learning blockchain development and smart contracts
-- 💞️ I’m looking to collaborate on AI/ML projects
-- 📫 How to reach me https://www.instagram.com/edasony?igsh=MXIxOWc3bnhiOHhudw==
-- 😄 Pronouns: sony
-- ⚡ Fun fact: just learned AI/ML yet lot to learn!
+Hi 👋, I'm Sony Eda
 
-<!---
-sonyeda/sonyeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Aspiring AI & Backend Developer | Python | LLMs | System Design  
+
+I’m passionate about building **intelligent systems**, **scalable backends**, and **real-world AI applications**.  
+Currently focusing on **Python, OOP, DSA, Generative AI, and full-stack AI projects**.
+
+
+
+🧠 What I'm Learning & Building
+- 🐍 Python (Core → OOP → Advanced)
+- 📊 Data Structures & Algorithms (Python)
+- 🤖 Generative AI (LLMs, RAG, Agents)
+- 🌐 Backend Development (Flask, APIs)
+- 🧩 System Design (Low-level & High-level)
+- 🛠️ Databases (SQLite, SQL basics)
+
+
+🤝 Connect With Me
+- 💼 LinkedIn:
+- 📧 Email: sonyeda601@gmail.com
+
+
+⭐ Always learning.
+
+
+
