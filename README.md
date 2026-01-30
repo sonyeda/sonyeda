@@ -17,7 +17,7 @@ Currently focusing on **Python, OOP, DSA, Generative AI, and full-stack AI proje
 
 
 🤝 Connect With Me
-- 💼 LinkedIn:
+- 💼 LinkedIn:www.linkedin.com/in/baby-sony
 - 📧 Email: sonyeda601@gmail.com
 
 
@@ -25,3 +25,4 @@ Currently focusing on **Python, OOP, DSA, Generative AI, and full-stack AI proje
 
 
 
+**Resume** :[resumeedit.pdf](https://github.com/user-attachments/files/24958609/resumeedit.pdf)
